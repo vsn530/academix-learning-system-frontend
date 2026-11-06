@@ -8,7 +8,7 @@ const makeRequest = async (inputValue: string, selectedParameter: string) => {
     method: "GET",
     url: `https://wordsapiv1.p.rapidapi.com/words/${inputValue}/${selectedParameter}`,
     headers: {
-      "X-RapidAPI-Key": 'bcfdee6c9dmsh4e3903236f08f3ep1ec2e0jsn25dfcc1e60d7',
+      "X-RapidAPI-Key": 'test-key',
       "X-RapidAPI-Host": 'wordsapiv1.p.rapidapi.com',
     },
     withCredentials: true,
