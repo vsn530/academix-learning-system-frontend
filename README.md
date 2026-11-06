@@ -32,9 +32,6 @@ To get started with Academix, follow these steps:
 
 We welcome contributions from the open source community to enhance Academix. If you find any issues or have suggestions for improvements, please submit a pull request.
 
-## Contact
-
-For any inquiries or support, you can reach us at perisicnikola37@gmail.com.
 
 ## License
 
